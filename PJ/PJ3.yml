@@ -1,0 +1,18 @@
+# Strawberry TDS data for TDbear
+
+meta:
+  ASSESSOR: [PJ]
+  COUNT: [3]
+  PRODUCT: [strawberry]
+
+duration: 56.2646
+
+data:
+  AROMATIC: []
+  FRUITY: []
+  GREEN: [31.8234]
+  JUICY: [9.1437, 21.7137]
+  LIGHT: [10.1832]
+  SOUR: [7.2473, 14.0312, 23.7033]
+  SWEET: []
+  WATERY: [5.8076]
